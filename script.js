@@ -1,6 +1,6 @@
 // Typing intro on landing
 const typingEl = document.getElementById("typing");
-const introText = "I have something special to tell you... 💌";
+const introText = "I have something special to tell you Priyanka.. 💌";
 let i=0;
 function typeIntro() {
   if(i<introText.length){
